@@ -1,0 +1,6 @@
+///////<HEADER>///////
+mikero=DePbo.dll
+prefix=Users\hp\Dropbox\lifestudios.kelleysisland
+Pbo Type is: Arma Mission with irrelevant prefix
+Sha: '6D89EDF86E1FDA1451DD7D44DA28794F930C965C'
+//////</HEADER>//////

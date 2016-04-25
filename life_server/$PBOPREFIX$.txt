@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=life_server
+Pbo Type is: Arma Addon
+Sha: 'D76AF310AD553A1D88FCFC504FD0A058F99E1446'
+//////</HEADER>//////
